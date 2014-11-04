@@ -1,5 +1,7 @@
 Vector mechanisms: Different tools the vector uses to propagate it's meme. Spoken language or even pictures are oftentimes the mechanism. Memes vectors can use a combination of vector mechanisms creating an ensemble mechanism.
+
 ----Different mechanisms may provide different average rates of meme transfer, although information content is oftentimes more important. Initially to keep it simple, we will assume there is no variable that dictates mechanism rate until evidence inevitably proves otherwise. Experiments will have to be set up severely restricting the mechanisms accesible to a population. Once found, a variable V can be a part of the P term, modifying all population variables.
+
 ----Keep in mind different memes and populations will react differently to the same mechanism anyway.  The interplay between memes and the population are what we are describing. Solid data about memes and populations needs to be collected first before finding vector mechanisms.
 
 Meme vector mechanisms examples:
