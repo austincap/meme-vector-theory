@@ -1,4 +1,4 @@
-Theory: there is an useful mathematical way to describe how a meme behaves with respect to a population. This is done via a modified Hill equation. This theory also contributes the concepts of meme vectors and vector mechanisms to memetics.
+Theory: There is an useful mathematical way to describe how a meme behaves with respect to a population. This is done via a modified Hill equation. This theory also contributes the concepts of meme vectors and vector mechanisms to memetics.
 
 What is the use of this theory?
 
