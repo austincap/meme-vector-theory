@@ -12,6 +12,6 @@ What is the use of this theory?
 
 - A more thorough understanding of information itself will be critical as data science and machine learning become a larger part of the economy. Memes are quanta of cultural information. I'd like to think artists can make use of research on the spread of memes as well.
 
-- I'm just spitballing on this last one, but it might be the secret to unlocking how the fundamental units of information theory connect to the fundamental units of the brain. We cracked the genetic code. Is there a neuronal or memetic code? I spitball this will turn out to be tied to fundamental language modules in the human brain.
+- I'm just spitballing on this last one, but it might be the secret to unlocking how the fundamental units of information theory connect to the fundamental units of thought. We already discovered how the fundamental units of information theory connect to the fundamental units of life: the genetic code. Is there a neuronal or memetic code? I spitball this will turn out to be tied to fundamental language modules in the human brain.
 
 Science is not necessarily taken seriously as science initially. Plate tectonics was a joke for the first fifty years the theory existed. Computational neuroscience is the latest stage in evolution of Freud's hilarious ideas. The point is you gotta start somewhere.
