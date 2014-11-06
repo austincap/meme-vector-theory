@@ -1,8 +1,8 @@
+M(t,S,P) The pattern of the meme saturation over time in a population can be described as a function of the meme strength variable and the population variable. Remember, S & P are constants for the meme and population respectively so for a specific meme interacting with a specific population you would use M(t).
+
 Javascript for the meme equation can be used here: https://www.desmos.com/calculator
 
 $\frac{1}{\left(\frac{\left(\frac{1}{1+e^{-300000000\left(\frac{P-S}{\sqrt{\left(P-S\right)x^2+300000000}}\right)}}\right)\left(0.0001\right)+\left(\frac{1}{1+e^{-300000000\left(\frac{P-S}{\sqrt{\left(P-S\right)x^2+300000000}}\right)}}\right)\left(P-S\right)^2}{Px^S}\right)^{\frac{\left(P\right)}{S}}+1}$
-
-M(t,S,P) The pattern of the meme saturation over time can be described as a function of the meme strength variable and the population variable. Remember, S & P are constants for the meme and population respectively so for a specific meme interacting with a specific population you would use the term M(t).
 
 How did I arrive at this equation?
 
