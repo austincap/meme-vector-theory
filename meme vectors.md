@@ -32,9 +32,9 @@ Population variable AKA meme substrate term AKA meme resistance factor (P):
 
     - Not sure how this can be measured.
 
-    - Ensemble vector mechanism (V): The aggregate value of the vector mechanisms used by vectors in the population
+  - Ensemble vector mechanism (V): The aggregate value of the vector mechanisms used by vectors in the population
 
-  - Vector mechanisms are a going to be orders of magnitude be more constant between different populations than memes will be and P describes the population well enough for our initial purposes so for now put a question mark next to this variable. Like this whole theory, it might not prove to be useful.
+    - Vector mechanisms are a going to be orders of magnitude be more constant between different populations than memes will be and P describes the population well enough for our initial purposes so for now put a question mark next to this variable. Like this whole theory, it might not prove to be useful.
 
     - On twitter for instance speech is not an option, only text and pics.
 
