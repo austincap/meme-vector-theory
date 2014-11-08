@@ -3,18 +3,14 @@ How do we go about actually finding these constants I claim describe memes and p
 - Basic analysis:
 
   1. Create and identify novel meme.
-
   2. Identify your vector population.
-
   3. Develop a test to determine whether or not a vector carries the meme.
-
   4. Take cross-sectional or longitudinal data over time. A simple tally of meme vectors.
-
   5. Fit the meme equation to your data.
 
 Here's a step-by-step real-world example:
 
-0. The goal of this experiment is to determine the population resistance of 5 populations.
+The goal of this experiment is to determine the population resistance of 5 populations.
 1. 'Meme vector theory' is the meme being studied. This decentralized document is a thorough description of the meme.
 2. The vector populations studied will be the: pod.diaspora.co.nz social network.
 3. If a vector posts the '#memevector' hashtag, that is reasonably indicative of the the vector having the capability to propagate the meme; i.e. that they are a meme vector.
