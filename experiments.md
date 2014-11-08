@@ -10,7 +10,7 @@ How do we go about actually finding these constants I claim describe memes and p
 
 Here's a step-by-step real-world example:
 
-The goal of this experiment is to determine the population resistance of 5 populations.
+The goal of this experiment is to determine the population resistance of a population.
 
   1. 'Meme vector theory' is the meme being studied. This decentralized document is a thorough description of the meme.
   2. The vector populations studied will be the: pod.diaspora.co.nz social network.
