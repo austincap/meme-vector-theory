@@ -11,15 +11,12 @@ How do we go about actually finding these constants I claim describe memes and p
 Here's a step-by-step real-world example:
 
 The goal of this experiment is to determine the population resistance of 5 populations.
-1. 'Meme vector theory' is the meme being studied. This decentralized document is a thorough description of the meme.
 
-2. The vector populations studied will be the: pod.diaspora.co.nz social network.
-
-3. If a vector posts the '#memevector' hashtag, that is reasonably indicative of the the vector having the capability to propagate the meme; i.e. that they are a meme vector.
-
-4. 11/7/2014 is the first day the meme seeds were planted.
-
-5. WAITING ON DATA
+  1. 'Meme vector theory' is the meme being studied. This decentralized document is a thorough description of the meme.
+  2. The vector populations studied will be the: pod.diaspora.co.nz social network.
+  3. If a vector posts the '#memevector' hashtag, that is reasonably indicative of the the vector having the capability to propagate the meme; i.e. that they are a meme vector.
+  4. 11/7/2014 is the first day the meme seeds were planted.
+  5. WAITING ON DATA
  
 - In order to fit the meme equation the meme strength of this meme is assumed to be 1 with no population affinity. All S values found in future research will be relative to this assumption.
 
