@@ -20,7 +20,7 @@ Meme vector mechanisms examples:
   - a single book
   - a book printing run
 
-  - I theorize that different vector mechanisms will have different rates of effectiveness eg: direct neural connection = 1, written text = .5, commercials = .1. These are made up values but would describe that telepathy has a vector mechanism rate of 100%, a written text rate of 50%, etc. Similarly, someone who does a 1000 book print run will have a higher effectiveness rate than a 100 book print run.
+- I theorize that different vector mechanisms will have different rates of effectiveness eg: direct neural connection = 1, written text = .5, commercials = .1. These are made up values but would describe that telepathy has a vector mechanism rate of 100%, a written text rate of 50%, etc. Similarly, someone who does a 1000 book print run will have a higher effectiveness rate than a 100 book print run.
 
 Memetics should be concerned primarily with the transfer of information, so how does information theory play into all this?
 
