@@ -2,13 +2,13 @@ Theory: There is an useful mathematical way to describe how a meme behaves with 
 
 What is the use of this theory?
 
-- Improved memetic engineering and in turn, increased control over the universe.
+- Improved memetic engineering and in turn, improved control over society.
 
 - Memetics has been criticized as pseudo-science because it had no empirical component. I seek to change that before the technology is cheap enough to give everyone fMRIs all the time.
 
 - We need a way to quantitatively classify different memes. This information could be added to the existing dictionary of concepts. Think of it as the periodic table of ideas. Maybe the CRC or the dewey decimal system would be a more appropriate analogy?
 
-- Some questions I personally hope to answer: How do story trope memes interact with different meme substrates to create cultural narratives? How do memes interact with each other or their environments and can we predict the results? What is the "formula" being used to produce our media? Can we evaluate what is "mainstream" empirically? Also, is there anything to "internet rule of thumbs" such as the "90:9:1 rule" and the "Wadsworth constant"?
+- Some questions I personally hope to answer: How do story trope memes interact with different meme substrates to create cultural narratives? What is the "formula" being used to produce our media? Can we evaluate what is "mainstream" empirically? Also, is there anything to "internet rule of thumbs" such as the "90:9:1 rule" and the "Wadsworth constant"?
 
 - A more thorough understanding of information itself will be critical as data science and machine learning become a larger part of the economy. Memes are quanta of cultural information. I'd like to think artists can make use of research on the spread of memes as well.
 
