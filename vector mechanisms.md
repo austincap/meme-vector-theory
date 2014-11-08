@@ -6,31 +6,19 @@ Vector mechanisms: Different tools the vector uses to propagate it's meme. Spoke
 
 Meme vector mechanisms examples:
 
-- a hashtag
-
-- written text
-
-- neural implants that allow one to directly communicate with the brain of another similarly implanted person
-
-- the net
-
-- twitter specifically
-
-- an individual account on twitter
-
-- pictures
-
-- movies
-
-- gifs
-
-- a theoretical rapid morse code that can be subconciously processed
-
-- a car
-
-- a single book
-
-- a book printing run
+  - a hashtag
+  - written text
+  - neural implants that allow one to directly communicate with the brain of another similarly implanted person
+  - the net
+  - twitter specifically
+  - an individual account on twitter
+  - pictures
+  - movies
+  - gifs
+  - a theoretical rapid morse code that can be subconciously processed
+  - a car
+  - a single book
+  - a book printing run
 
   - I theorize that different vector mechanisms will have different rates of effectiveness eg: direct neural connection = 1, written text = .5, commercials = .1. These are made up values but would describe that telepathy has a vector mechanism rate of 100%, a written text rate of 50%, etc. Similarly, someone who does a 1000 book print run will have a higher effectiveness rate than a 100 book print run.
 
